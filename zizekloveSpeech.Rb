@@ -23,4 +23,4 @@ live_loop :drums do
 end
 
 
-sample #buraya localden wav dosyasının linki gelicek # , amp: 10
+sample #buraya localden wav dosyasının linki gelicek   / https://www.youtube.com/watch?v=eQmc039N0jE /  # , amp: 10 
